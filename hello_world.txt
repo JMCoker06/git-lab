@@ -1,4 +1,4 @@
 Hello World
 My name is Joseph Coker
-I am a Computer Science Major 
+I am a Freshman Computer Science Major 
 From Seattle, Washington
